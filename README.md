@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aditya Gupta
 ====================================================================================================================================
 
+<a href="https://skyline.github.com/guptaAditya27/2021" target="_blank" rel="noreferrer"><img src="https://skyline.github.com/guptaAditya27/2021.png" width="100%" height="400" alt="JavaScript" /></a>
+
 Frontend Developer (ReactJS | NextJS | React-Native)
 -----------------------------
 
