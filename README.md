@@ -7,7 +7,7 @@ Frontend Developer (ReactJS | NextJS | React-Native)
 -----------------------------
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [aaditya.gupta2710@gmail.com](mailto:aaditya.gupta2710@gmail.com)
+* ✉️  You can contact me at [aadityagupta2710@gmail.com](mailto:aadityagupta2710@gmail.com)
 * 🧠  Proficient in ReactJS, NextJS, learning React Native
 * 🤝  I'm open to collaborating on interesting projects as a developer
 
